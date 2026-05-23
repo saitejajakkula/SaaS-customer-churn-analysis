@@ -188,19 +188,6 @@ This project demonstrates:
 * Data-driven decision making
 * Stakeholder reporting
 
----
-
-# 👨‍💼 Ideal For
-
-This project is suitable for:
-
-* Data Analyst Portfolio
-* Business Analyst Portfolio
-* Power BI Projects
-* Tableau Projects
-* Excel Dashboard Projects
-* Fresher Portfolio Projects
-* Interview Presentations
 
 ---
 
